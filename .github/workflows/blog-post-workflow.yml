@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: SaiCharan1394/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/@akkirajusaicharan/list/reading-list"
+          feed_list: "https://medium.com/@akkirajusaicharan"
