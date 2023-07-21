@@ -15,6 +15,8 @@
 
 - 🤝 I’m looking for help with **Nuxt JS**
 
+- 👨‍💻 All of my projects are available at [https://saicharan1394.github.io/my-portfolio/#home](https://saicharan1394.github.io/my-portfolio/#home)
+
 - 💬 Ask me about **HTML CSS JS**
 
 - 📫 How to reach me **akkirajusaicharan@gmail.com**
